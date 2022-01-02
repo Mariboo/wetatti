@@ -1,0 +1,37 @@
+
+
+html, body {
+    height: 100%;
+}
+
+body {
+    position: relative;
+    background-color: #84a0c7;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: url("../images/intro.jpg")center no-repeat;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 20px;
+
+    background-color: rgba(23, 55, 56, 0.35);
+    width: 100%;
+    min-height: 100%;
+}
+
+.s.title {
+    color: #fff;
+    font-size: 10px;
+    font-weight: 50;
+    text-transform: uppercase;
+    text-align: center;
+}
