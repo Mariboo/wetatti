@@ -92,7 +92,7 @@ hr {
 }
 
 /* навигационная менюшка */
-.nav {
+#nav {
     font-size: 16px;
     text-transform: uppercase;
 }
