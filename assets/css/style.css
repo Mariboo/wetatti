@@ -483,6 +483,12 @@ hr {
 
 
 /* портфолио работ */
+.div4 {
+  padding: 10px;
+  border: 3px solid lightblue;
+  clear: left;
+}
+
 .works {
     display: flex;
     margin: 10 0px 0;
